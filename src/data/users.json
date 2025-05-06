@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Donatien Talla Fossi",
+      "photo": "/assets/images/mem_1.jpg",
+      "email": "donatienfossi5@gmail.com",
+      "phone": "+237 6 95 53 85 48",
+      "bio": "Développeur front-end passionné par le HTML."
+    },
+    {
+      "name": "Ngongang Ngolamze Yann",
+      "photo": "/assets/images/mem_2.jpg",
+      "email": "yannngolamze@gmail.com",
+      "phone": "690117587",
+      "bio": "Graphic Designer et développeur back-end."
+    },
+    {
+      "name": "Bianda Parfait",
+      "photo": "/assets/images/mem_4.jpg",
+      "email": "biandaodilon@gmail.com",
+      "phone": "+237 694097274",
+      "bio": "Fan de l'electronique."
+    },
+    {
+      "name": "Mambou Wallace",
+      "photo": "/assets/images/mem_3.jpg",
+      "email": "mambou.wallace2005@gmail.com",
+      "phone": "+237 6 73 44 40 11",
+      "bio": "Dev Junior fan de jeux."
+    },
+    {
+      "name": "Claire Bernard",
+      "photo": "https://randomuser.me/api/portraits/women/12.jpg",
+      "email": "claire.bernard@example.com",
+      "phone": "0611121314",
+      "bio": "Data analyst toujours en quête de vérité."
+    },
+    {
+      "name": "Thomas Garnier",
+      "photo": "https://randomuser.me/api/portraits/men/33.jpg",
+      "email": "thomas.garnier@example.com",
+      "phone": "0621212121",
+      "bio": "Admin système Linux et joueur de foot en club."
+    },
+    {
+      "name": "Julie Lefevre",
+      "photo": "https://randomuser.me/api/portraits/women/76.jpg",
+      "email": "julie.lefevre@example.com",
+      "phone": "0630303030",
+      "bio": "Développeuse mobile React Native et café addict."
+    },
+    {
+      "name": "Lucas Fontaine",
+      "photo": "https://randomuser.me/api/portraits/men/59.jpg",
+      "email": "lucas.fontaine@example.com",
+      "phone": "0644444444",
+      "bio": "Consultant tech et passionné de cybersécurité."
+    },
+    {
+      "name": "Camille Perrot",
+      "photo": "https://randomuser.me/api/portraits/women/29.jpg",
+      "email": "camille.perrot@example.com",
+      "phone": "0656565656",
+      "bio": "Product owner pragmatique, orientée utilisateurs."
+    },
+    {
+      "name": "Hugo Martin",
+      "photo": "https://randomuser.me/api/portraits/men/10.jpg",
+      "email": "hugo.martin@example.com",
+      "phone": "0677777777",
+      "bio": "Etudiant en informatique, amateur de hackathons."
+    }
+  ]
+  
