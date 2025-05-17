@@ -1,6 +1,6 @@
 // src/components/UserCard.tsx
 import React from 'react'
-
+//commentaire
 type User = {
   name: string
   photo: string
@@ -18,7 +18,7 @@ const UserCard: React.FC<Props> = ({ user, onClick }) => {
   return (
     <div className="card" onClick={() => onClick(user)}>
       <img src={user.photo} alt={user.name} onError={(e) => (e.currentTarget.src = 'default.jpg')} />
-      <p>{user.name}</p>
+      <p>{user.name}</p> 
     </div>
   )
 }
