@@ -1,28 +1,28 @@
 [
     {
       "name": "Donatien Talla Fossi",
-      "photo": "/assets/images/mem_1.jpg",
+      "photo": "assets/images/mem_1.jpg",
       "email": "donatienfossi5@gmail.com",
       "phone": "+237 6 95 53 85 48",
       "bio": "Développeur front-end passionné par le HTML."
     },
     {
       "name": "Ngongang Ngolamze Yann",
-      "photo": "/assets/images/mem_2.jpg",
+      "photo": "assets/images/mem_2.jpg",
       "email": "yannngolamze@gmail.com",
       "phone": "690117587",
       "bio": "Graphic Designer et développeur back-end."
     },
     {
       "name": "Bianda Parfait",
-      "photo": "/assets/images/mem_4.jpg",
+      "photo": "assets/images/mem_4.jpg",
       "email": "biandaodilon@gmail.com",
       "phone": "+237 694097274",
       "bio": "Fan de l'electronique."
     },
     {
       "name": "Mambou Wallace",
-      "photo": "/assets/images/mem_3.jpg",
+      "photo": "assets/images/mem_3.jpg",
       "email": "mambou.wallace2005@gmail.com",
       "phone": "+237 6 73 44 40 11",
       "bio": "Dev Junior fan de jeux."
